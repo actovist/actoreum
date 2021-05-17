@@ -1,0 +1,2 @@
+# actoreum
+A ledgerless cryptocurrency
